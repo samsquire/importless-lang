@@ -1,6 +1,6 @@
 # importless-lang
 
-a preprocessor that inserts import statements for you
+a Python preprocessor that inserts import statements for you
 
 See `example.py` - the file has no import statements
 
