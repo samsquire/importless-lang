@@ -1,0 +1,208 @@
+Blueprint:
+  package: flask
+CalledProcessError:
+  package: subprocess
+CompletedProcess:
+  package: subprocess
+Config:
+  package: flask
+DEVNULL:
+  package: subprocess
+Flask:
+  package: flask
+Markup:
+  package: flask
+PIPE:
+  package: subprocess
+Popen:
+  package: subprocess
+Request:
+  package: flask
+Response:
+  package: flask
+STDOUT:
+  package: subprocess
+SubprocessError:
+  package: subprocess
+TimeoutExpired:
+  package: subprocess
+_PIPE_BUF:
+  package: subprocess
+_PLATFORM_DEFAULT_CLOSE_FDS:
+  package: subprocess
+_PopenSelector:
+  package: subprocess
+__all__:
+  package: subprocess
+__builtins__:
+  package: flask
+__cached__:
+  package: flask
+__doc__:
+  package: flask
+__file__:
+  package: flask
+__loader__:
+  package: flask
+__name__:
+  package: flask
+__package__:
+  package: flask
+__path__:
+  package: flask
+__spec__:
+  package: flask
+__version__:
+  package: flask
+_active:
+  package: subprocess
+_app_ctx_stack:
+  package: flask
+_args_from_interpreter_flags:
+  package: subprocess
+_cleanup:
+  package: subprocess
+_compat:
+  package: flask
+_mswindows:
+  package: subprocess
+_optim_args_from_interpreter_flags:
+  package: subprocess
+_posixsubprocess:
+  package: subprocess
+_request_ctx_stack:
+  package: flask
+_time:
+  package: subprocess
+abort:
+  package: flask
+after_this_request:
+  package: flask
+app:
+  package: flask
+appcontext_popped:
+  package: flask
+appcontext_pushed:
+  package: flask
+appcontext_tearing_down:
+  package: flask
+before_render_template:
+  package: flask
+blueprints:
+  package: flask
+builtins:
+  package: subprocess
+call:
+  package: subprocess
+check_call:
+  package: subprocess
+check_output:
+  package: subprocess
+cli:
+  package: flask
+config:
+  package: flask
+copy_current_request_context:
+  package: flask
+ctx:
+  package: flask
+current_app:
+  package: flask
+errno:
+  package: subprocess
+escape:
+  package: flask
+flash:
+  package: flask
+g:
+  package: flask
+get_flashed_messages:
+  package: flask
+get_template_attribute:
+  package: flask
+getoutput:
+  package: subprocess
+getstatusoutput:
+  package: subprocess
+globals:
+  package: flask
+got_request_exception:
+  package: flask
+has_app_context:
+  package: flask
+has_request_context:
+  package: flask
+helpers:
+  package: flask
+io:
+  package: subprocess
+json:
+  package: flask
+json_available:
+  package: flask
+jsonify:
+  package: flask
+list2cmdline:
+  package: subprocess
+logging:
+  package: flask
+make_response:
+  package: flask
+message_flashed:
+  package: flask
+os:
+  package: subprocess
+redirect:
+  package: flask
+render_template:
+  package: flask
+render_template_string:
+  package: flask
+request:
+  package: flask
+request_finished:
+  package: flask
+request_started:
+  package: flask
+request_tearing_down:
+  package: flask
+run:
+  package: subprocess
+safe_join:
+  package: flask
+select:
+  package: subprocess
+selectors:
+  package: subprocess
+send_file:
+  package: flask
+send_from_directory:
+  package: flask
+session:
+  package: flask
+sessions:
+  package: flask
+signal:
+  package: subprocess
+signals:
+  package: flask
+signals_available:
+  package: flask
+stream_with_context:
+  package: flask
+sys:
+  package: subprocess
+template_rendered:
+  package: flask
+templating:
+  package: flask
+threading:
+  package: subprocess
+time:
+  package: subprocess
+url_for:
+  package: flask
+warnings:
+  package: subprocess
+wrappers:
+  package: flask
