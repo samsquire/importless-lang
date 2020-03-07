@@ -10,5 +10,5 @@ Global tokens are searched with `global_finder` using the sourcecode's AST. Then
 
 # Adding imports to lookups
 
-You have to add the package to `create-imports.py` and run `python3 create-imports.py`
+You have to add the package to `create-lookups.py` and run `python3 create-lookups.py`
 
