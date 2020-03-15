@@ -1,25 +1,31 @@
 Blueprint:
   package: flask
+  pip: flask
 CalledProcessError:
   package: subprocess
 CompletedProcess:
   package: subprocess
 Config:
   package: flask
+  pip: flask
 DEVNULL:
   package: subprocess
 Flask:
   package: flask
+  pip: flask
 Markup:
   package: flask
+  pip: flask
 PIPE:
   package: subprocess
 Popen:
   package: subprocess
 Request:
   package: flask
+  pip: flask
 Response:
   package: flask
+  pip: flask
 STDOUT:
   package: subprocess
 SubprocessError:
@@ -36,34 +42,46 @@ __all__:
   package: subprocess
 __builtins__:
   package: flask
+  pip: flask
 __cached__:
   package: flask
+  pip: flask
 __doc__:
   package: flask
+  pip: flask
 __file__:
   package: flask
+  pip: flask
 __loader__:
   package: flask
+  pip: flask
 __name__:
   package: flask
+  pip: flask
 __package__:
   package: flask
+  pip: flask
 __path__:
   package: flask
+  pip: flask
 __spec__:
   package: flask
+  pip: flask
 __version__:
   package: flask
+  pip: flask
 _active:
   package: subprocess
 _app_ctx_stack:
   package: flask
+  pip: flask
 _args_from_interpreter_flags:
   package: subprocess
 _cleanup:
   package: subprocess
 _compat:
   package: flask
+  pip: flask
 _mswindows:
   package: subprocess
 _optim_args_from_interpreter_flags:
@@ -72,24 +90,33 @@ _posixsubprocess:
   package: subprocess
 _request_ctx_stack:
   package: flask
+  pip: flask
 _time:
   package: subprocess
 abort:
   package: flask
+  pip: flask
 after_this_request:
   package: flask
+  pip: flask
 app:
   package: flask
+  pip: flask
 appcontext_popped:
   package: flask
+  pip: flask
 appcontext_pushed:
   package: flask
+  pip: flask
 appcontext_tearing_down:
   package: flask
+  pip: flask
 before_render_template:
   package: flask
+  pip: flask
 blueprints:
   package: flask
+  pip: flask
 builtins:
   package: subprocess
 call:
@@ -100,109 +127,149 @@ check_output:
   package: subprocess
 cli:
   package: flask
+  pip: flask
 config:
   package: flask
+  pip: flask
 copy_current_request_context:
   package: flask
+  pip: flask
 ctx:
   package: flask
+  pip: flask
 current_app:
   package: flask
+  pip: flask
 errno:
   package: subprocess
 escape:
   package: flask
+  pip: flask
 flash:
   package: flask
+  pip: flask
 g:
   package: flask
+  pip: flask
 get_flashed_messages:
   package: flask
+  pip: flask
 get_template_attribute:
   package: flask
+  pip: flask
 getoutput:
   package: subprocess
 getstatusoutput:
   package: subprocess
 globals:
   package: flask
+  pip: flask
 got_request_exception:
   package: flask
+  pip: flask
 has_app_context:
   package: flask
+  pip: flask
 has_request_context:
   package: flask
+  pip: flask
 helpers:
   package: flask
+  pip: flask
 io:
   package: subprocess
 json:
   package: flask
+  pip: flask
 json_available:
   package: flask
+  pip: flask
 jsonify:
   package: flask
+  pip: flask
 list2cmdline:
   package: subprocess
 logging:
   package: flask
+  pip: flask
 make_response:
   package: flask
+  pip: flask
 message_flashed:
   package: flask
+  pip: flask
 os:
   package: subprocess
 redirect:
   package: flask
+  pip: flask
 render_template:
   package: flask
+  pip: flask
 render_template_string:
   package: flask
+  pip: flask
 request:
   package: flask
+  pip: flask
 request_finished:
   package: flask
+  pip: flask
 request_started:
   package: flask
+  pip: flask
 request_tearing_down:
   package: flask
+  pip: flask
 run:
   package: subprocess
 safe_join:
   package: flask
+  pip: flask
 select:
   package: subprocess
 selectors:
   package: subprocess
 send_file:
   package: flask
+  pip: flask
 send_from_directory:
   package: flask
+  pip: flask
 session:
   package: flask
+  pip: flask
 sessions:
   package: flask
+  pip: flask
 signal:
   package: subprocess
 signals:
   package: flask
+  pip: flask
 signals_available:
   package: flask
+  pip: flask
 stream_with_context:
   package: flask
+  pip: flask
 sys:
   package: subprocess
 template_rendered:
   package: flask
+  pip: flask
 templating:
   package: flask
+  pip: flask
 threading:
   package: subprocess
 time:
   package: subprocess
 url_for:
   package: flask
+  pip: flask
 warnings:
   package: subprocess
 wrappers:
   package: flask
+  pip: flask
